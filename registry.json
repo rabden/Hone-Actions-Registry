@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "actions": [
+    {
+      "id": "mkt_action_items",
+      "name": "Extract action items",
+      "description": "Pull clear to-do items out of notes or meeting text",
+      "icon": "ListChecks",
+      "color": "#06B6D4",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["productivity", "meetings", "tasks"],
+      "path": "actions/action-items.json"
+    },
+    {
+      "id": "mkt_add_emojis",
+      "name": "Add emojis",
+      "description": "Sprinkle fitting emojis through the text tastefully",
+      "icon": "Smile",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["fun", "social", "tone"],
+      "path": "actions/add-emojis.json"
+    },
+    {
+      "id": "mkt_eli5",
+      "name": "Explain like I'm 5",
+      "description": "Rewrite complex text so a child could understand it",
+      "icon": "Lightbulb",
+      "color": "#F59E0B",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["explain", "simplify"],
+      "path": "actions/eli5.json"
+    },
+    {
+      "id": "mkt_polite_decline",
+      "name": "Polite decline",
+      "description": "Turn a rough refusal into a warm, professional no",
+      "icon": "Hand",
+      "color": "#EF4444",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "communication", "tone"],
+      "path": "actions/polite-decline.json"
+    },
+    {
+      "id": "mkt_remove_jargon",
+      "name": "Remove jargon",
+      "description": "Replace buzzwords and jargon with plain language",
+      "icon": "Eraser",
+      "color": "#10B981",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["clarity", "simplify", "business"],
+      "path": "actions/remove-jargon.json"
+    },
+    {
+      "id": "mkt_summarize_bullets",
+      "name": "Summarize to bullets",
+      "description": "Condense text into 3 concise bullet points",
+      "icon": "List",
+      "color": "#8B5CF6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["summarization", "productivity"],
+      "path": "actions/summarize-bullets.json"
+    },
+    {
+      "id": "mkt_translate_to_english",
+      "name": "Translate to English",
+      "description": "Translate text from any language into natural English",
+      "icon": "Languages",
+      "color": "#3B82F6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language"],
+      "path": "actions/translate-to-english.json"
+    },
+    {
+      "id": "mkt_tweetify",
+      "name": "Tweetify",
+      "description": "Condense text into a punchy post under 280 characters",
+      "icon": "MessageCircle",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["social", "twitter", "shorten"],
+      "path": "actions/tweetify.json"
+    }
+  ]
+}

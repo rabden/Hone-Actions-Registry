@@ -1,0 +1,12 @@
+{
+  "id": "mkt_summarize_bullets",
+  "name": "Summarize to bullets",
+  "description": "Condense text into 3 concise bullet points",
+  "icon": "List",
+  "color": "#8B5CF6",
+  "promptTemplate": "Summarize the following text into exactly 3 concise bullet points that capture the key ideas:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the 3 bullet points, one per line starting with \"- \". Do NOT include any introductory notes, explanations, or extra formatting.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["summarization", "productivity"]
+}

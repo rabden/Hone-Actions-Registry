@@ -1,0 +1,12 @@
+{
+  "id": "mkt_translate_to_english",
+  "name": "Translate to English",
+  "description": "Translate text from any language into natural English",
+  "icon": "Languages",
+  "color": "#3B82F6",
+  "promptTemplate": "Translate the following text into natural, fluent English. Preserve the tone, intent, and formatting of the original:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the translated text. Do NOT include any introductory notes, explanations, or the original text.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["translation", "language"]
+}

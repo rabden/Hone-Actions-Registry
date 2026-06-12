@@ -1,0 +1,12 @@
+{
+  "id": "mkt_add_emojis",
+  "name": "Add emojis",
+  "description": "Sprinkle fitting emojis through the text tastefully",
+  "icon": "Smile",
+  "color": "#EC4899",
+  "promptTemplate": "Add fitting emojis to the following text. Place them naturally where they enhance meaning or emotion, without overdoing it (roughly one emoji per sentence at most). Do not change the wording:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the text with emojis added. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["fun", "social", "tone"]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mkt_action_items",
+  "name": "Extract action items",
+  "description": "Pull clear to-do items out of notes or meeting text",
+  "icon": "ListChecks",
+  "color": "#06B6D4",
+  "promptTemplate": "Extract all action items from the following text. Write each as a short imperative task on its own line starting with \"- [ ] \". Include owners and deadlines if mentioned:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the checklist of action items. If there are none, return \"- [ ] (no action items found)\". Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["productivity", "meetings", "tasks"]
+}

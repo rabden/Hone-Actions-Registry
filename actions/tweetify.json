@@ -1,0 +1,12 @@
+{
+  "id": "mkt_tweetify",
+  "name": "Tweetify",
+  "description": "Condense text into a punchy post under 280 characters",
+  "icon": "MessageCircle",
+  "color": "#0EA5E9",
+  "promptTemplate": "Condense the following text into a single punchy social media post under 280 characters. Keep it engaging and natural, no hashtag spam (max 2 hashtags, only if they fit):\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the post text. Do NOT include any introductory notes, explanations, character counts, or quotes around the post.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["social", "twitter", "shorten"]
+}

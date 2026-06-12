@@ -1,0 +1,12 @@
+{
+  "id": "mkt_polite_decline",
+  "name": "Polite decline",
+  "description": "Turn a rough refusal into a warm, professional no",
+  "icon": "Hand",
+  "color": "#EF4444",
+  "promptTemplate": "Rewrite the following message as a polite, warm, and professional decline. Keep it brief, appreciative, and firm without over-apologizing:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the rewritten message. Do NOT include any introductory notes, explanations, or markdown wrappers.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["email", "communication", "tone"]
+}

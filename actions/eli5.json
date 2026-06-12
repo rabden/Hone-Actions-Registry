@@ -1,0 +1,12 @@
+{
+  "id": "mkt_eli5",
+  "name": "Explain like I'm 5",
+  "description": "Rewrite complex text so a child could understand it",
+  "icon": "Lightbulb",
+  "color": "#F59E0B",
+  "promptTemplate": "Rewrite the following text so that a 5-year-old could understand it. Use simple words, short sentences, and friendly everyday comparisons while keeping the meaning accurate:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the rewritten text. Do NOT include any introductory notes, explanations, or markdown wrappers.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["explain", "simplify"]
+}
