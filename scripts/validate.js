@@ -59,7 +59,7 @@ function validateAction(file, data) {
     }
   }
   if ("systemPrompt" in data) {
-    if (typeof data.systemPrompt !== "string" || data.systemPrompt.length > 2000) {
+    if (typeof data.systemPrompt !== "string" || data.systemPrompt.length > 12000) {
       err(rel, `field "systemPrompt" fails validation`);
     }
   }

@@ -14,7 +14,7 @@ Thank you for contributing to the Hone Actions Registry!
 
 - **`id`** must start with `mkt_`, be unique, and use snake_case (e.g. `mkt_polite_decline`).
 - **`promptTemplate`** must contain `{{input}}` exactly where the user's text should be injected. Max 4000 characters.
-- **`systemPrompt`** is optional. Max 2000 characters.
+- **`systemPrompt`** is optional. Max 12000 characters.
 - **No URLs** in `promptTemplate` or `systemPrompt` (prevents exfiltration-style prompt injection).
 - **No instructions that ignore or override the user's text** — actions must transform `{{input}}`, not replace it with unrelated content.
 - **`name`** max 80 chars; **`description`** max 160 chars.

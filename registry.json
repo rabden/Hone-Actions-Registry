@@ -24,6 +24,17 @@
       "path": "actions/add-emojis.json"
     },
     {
+      "id": "mkt_banglish_to_bangla",
+      "name": "Banglish to Bangla",
+      "description": "Convert Banglish (Bangla typed in English letters) into Bangla script",
+      "icon": "Keyboard",
+      "color": "#006A4E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["bangla", "banglish", "transliteration", "language"],
+      "path": "actions/banglish-to-bangla.json"
+    },
+    {
       "id": "mkt_eli5",
       "name": "Explain like I'm 5",
       "description": "Rewrite complex text so a child could understand it",
@@ -33,6 +44,17 @@
       "author": "hone-team",
       "tags": ["explain", "simplify"],
       "path": "actions/eli5.json"
+    },
+    {
+      "id": "mkt_hinglish_to_hindi",
+      "name": "Hinglish to Hindi",
+      "description": "Convert Hinglish (Hindi typed in English letters) into Devanagari script",
+      "icon": "Type",
+      "color": "#FF9933",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["hindi", "hinglish", "transliteration", "language"],
+      "path": "actions/hinglish-to-hindi.json"
     },
     {
       "id": "mkt_polite_decline",
@@ -55,6 +77,17 @@
       "author": "hone-team",
       "tags": ["clarity", "simplify", "business"],
       "path": "actions/remove-jargon.json"
+    },
+    {
+      "id": "mkt_roman_urdu_to_urdu",
+      "name": "Roman Urdu to Urdu",
+      "description": "Convert Roman Urdu (Urdu typed in English letters) into Urdu script",
+      "icon": "PenLine",
+      "color": "#01411C",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["urdu", "roman-urdu", "transliteration", "language"],
+      "path": "actions/roman-urdu-to-urdu.json"
     },
     {
       "id": "mkt_summarize_bullets",

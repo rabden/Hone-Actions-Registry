@@ -35,7 +35,7 @@
     },
     "systemPrompt": {
       "type": "string",
-      "maxLength": 2000
+      "maxLength": 12000
     },
     "category": {
       "type": "string",
