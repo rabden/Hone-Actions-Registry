@@ -1,0 +1,12 @@
+{
+  "id": "mkt_social_caption",
+  "name": "Social Media Caption",
+  "description": "Write an engaging social media caption for your post or product",
+  "icon": "Instagram",
+  "color": "#EC4899",
+  "promptTemplate": "Write an engaging social media caption for the following content or product. Make it punchy, on-brand, and optimized for likes and shares. Include 3-5 relevant hashtags at the end:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the caption text. Do NOT include introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["social", "marketing", "writing"]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mkt_translate_russian",
+  "name": "Translate to Russian",
+  "description": "Translate text from any language into natural Russian",
+  "icon": "Languages",
+  "color": "#3B82F6",
+  "promptTemplate": "Translate the following text into natural, fluent Russian. Preserve the meaning, tone, and formatting of the original. If the text is already in Russian, return it unchanged:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the Russian translation. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["translation", "language", "russian"]
+}

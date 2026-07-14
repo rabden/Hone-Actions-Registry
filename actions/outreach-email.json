@@ -1,0 +1,12 @@
+{
+  "id": "mkt_outreach_email",
+  "name": "Outreach Email",
+  "description": "Write a concise, persuasive cold outreach email",
+  "icon": "Mail",
+  "color": "#6366F1",
+  "promptTemplate": "Write a concise, persuasive cold outreach email based on the following context. Lead with a relevant hook, state the value clearly, and end with a low-friction call to action. Keep it under 150 words:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the email text, with a subject line on the first line. Do NOT include introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["email", "sales", "outreach"]
+}

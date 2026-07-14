@@ -1,0 +1,12 @@
+{
+  "id": "mkt_translate_italian",
+  "name": "Translate to Italian",
+  "description": "Translate text from any language into natural Italian",
+  "icon": "Languages",
+  "color": "#EF4444",
+  "promptTemplate": "Translate the following text into natural, fluent Italian. Preserve the meaning, tone, and formatting of the original. If the text is already in Italian, return it unchanged:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the Italian translation. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["translation", "language", "italian"]
+}

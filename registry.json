@@ -9,7 +9,11 @@
       "color": "#06B6D4",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["productivity", "meetings", "tasks"],
+      "tags": [
+        "productivity",
+        "meetings",
+        "tasks"
+      ],
       "path": "actions/action-items.json"
     },
     {
@@ -20,7 +24,11 @@
       "color": "#EC4899",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["fun", "social", "tone"],
+      "tags": [
+        "fun",
+        "social",
+        "tone"
+      ],
       "path": "actions/add-emojis.json"
     },
     {
@@ -31,7 +39,12 @@
       "color": "#006A4E",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["bangla", "banglish", "transliteration", "language"],
+      "tags": [
+        "bangla",
+        "banglish",
+        "transliteration",
+        "language"
+      ],
       "path": "actions/banglish-to-bangla.json"
     },
     {
@@ -42,7 +55,10 @@
       "color": "#F59E0B",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["explain", "simplify"],
+      "tags": [
+        "explain",
+        "simplify"
+      ],
       "path": "actions/eli5.json"
     },
     {
@@ -53,7 +69,12 @@
       "color": "#FF9933",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["hindi", "hinglish", "transliteration", "language"],
+      "tags": [
+        "hindi",
+        "hinglish",
+        "transliteration",
+        "language"
+      ],
       "path": "actions/hinglish-to-hindi.json"
     },
     {
@@ -64,7 +85,11 @@
       "color": "#EF4444",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["email", "communication", "tone"],
+      "tags": [
+        "email",
+        "communication",
+        "tone"
+      ],
       "path": "actions/polite-decline.json"
     },
     {
@@ -75,7 +100,11 @@
       "color": "#10B981",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["clarity", "simplify", "business"],
+      "tags": [
+        "clarity",
+        "simplify",
+        "business"
+      ],
       "path": "actions/remove-jargon.json"
     },
     {
@@ -86,7 +115,12 @@
       "color": "#01411C",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["urdu", "roman-urdu", "transliteration", "language"],
+      "tags": [
+        "urdu",
+        "roman-urdu",
+        "transliteration",
+        "language"
+      ],
       "path": "actions/roman-urdu-to-urdu.json"
     },
     {
@@ -97,7 +131,10 @@
       "color": "#8B5CF6",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["summarization", "productivity"],
+      "tags": [
+        "summarization",
+        "productivity"
+      ],
       "path": "actions/summarize-bullets.json"
     },
     {
@@ -108,7 +145,10 @@
       "color": "#3B82F6",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language"],
+      "tags": [
+        "translation",
+        "language"
+      ],
       "path": "actions/translate-to-english.json"
     },
     {
@@ -119,7 +159,11 @@
       "color": "#0EA5E9",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["social", "twitter", "shorten"],
+      "tags": [
+        "social",
+        "twitter",
+        "shorten"
+      ],
       "path": "actions/tweetify.json"
     },
     {
@@ -130,7 +174,10 @@
       "color": "#6366F1",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["summarization", "productivity"],
+      "tags": [
+        "summarization",
+        "productivity"
+      ],
       "path": "actions/summarize.json"
     },
     {
@@ -141,7 +188,11 @@
       "color": "#0EA5E9",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["email", "communication", "business"],
+      "tags": [
+        "email",
+        "communication",
+        "business"
+      ],
       "path": "actions/professional-email.json"
     },
     {
@@ -152,7 +203,11 @@
       "color": "#22C55E",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "spanish"],
+      "tags": [
+        "translation",
+        "language",
+        "spanish"
+      ],
       "path": "actions/translate-spanish.json"
     },
     {
@@ -163,7 +218,11 @@
       "color": "#A855F7",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["writing", "continue", "drafting"],
+      "tags": [
+        "writing",
+        "continue",
+        "drafting"
+      ],
       "path": "actions/continue.json"
     },
     {
@@ -174,7 +233,11 @@
       "color": "#3B82F6",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "french"],
+      "tags": [
+        "translation",
+        "language",
+        "french"
+      ],
       "path": "actions/translate-french.json"
     },
     {
@@ -185,7 +248,11 @@
       "color": "#0EA5E9",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "german"],
+      "tags": [
+        "translation",
+        "language",
+        "german"
+      ],
       "path": "actions/translate-german.json"
     },
     {
@@ -196,7 +263,11 @@
       "color": "#F59E0B",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["summarization", "tldr", "productivity"],
+      "tags": [
+        "summarization",
+        "tldr",
+        "productivity"
+      ],
       "path": "actions/tldr.json"
     },
     {
@@ -207,7 +278,11 @@
       "color": "#6366F1",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["writing", "formatting", "prose"],
+      "tags": [
+        "writing",
+        "formatting",
+        "prose"
+      ],
       "path": "actions/bullets-to-prose.json"
     },
     {
@@ -218,7 +293,11 @@
       "color": "#10B981",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["instructions", "how-to", "productivity"],
+      "tags": [
+        "instructions",
+        "how-to",
+        "productivity"
+      ],
       "path": "actions/steps.json"
     },
     {
@@ -229,7 +308,11 @@
       "color": "#EC4899",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["writing", "title", "marketing"],
+      "tags": [
+        "writing",
+        "title",
+        "marketing"
+      ],
       "path": "actions/catchy-title.json"
     },
     {
@@ -240,7 +323,11 @@
       "color": "#FF9933",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "hindi"],
+      "tags": [
+        "translation",
+        "language",
+        "hindi"
+      ],
       "path": "actions/translate-hindi.json"
     },
     {
@@ -251,7 +338,11 @@
       "color": "#01411C",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "arabic"],
+      "tags": [
+        "translation",
+        "language",
+        "arabic"
+      ],
       "path": "actions/translate-arabic.json"
     },
     {
@@ -262,7 +353,11 @@
       "color": "#22C55E",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "portuguese"],
+      "tags": [
+        "translation",
+        "language",
+        "portuguese"
+      ],
       "path": "actions/translate-portuguese.json"
     },
     {
@@ -273,7 +368,11 @@
       "color": "#EC4899",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["translation", "language", "japanese"],
+      "tags": [
+        "translation",
+        "language",
+        "japanese"
+      ],
       "path": "actions/translate-japanese.json"
     },
     {
@@ -284,7 +383,11 @@
       "color": "#0EA5E9",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["email", "communication", "reply"],
+      "tags": [
+        "email",
+        "communication",
+        "reply"
+      ],
       "path": "actions/reply-email.json"
     },
     {
@@ -295,8 +398,102 @@
       "color": "#8B5CF6",
       "version": "1.0.0",
       "author": "hone-team",
-      "tags": ["writing", "outline", "structure"],
+      "tags": [
+        "writing",
+        "outline",
+        "structure"
+      ],
       "path": "actions/outline.json"
+    },
+    {
+      "id": "mkt_outreach_email",
+      "path": "actions/outreach-email.json",
+      "name": "Outreach Email",
+      "description": "Write a concise, persuasive cold outreach email",
+      "icon": "Mail",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "email",
+        "sales",
+        "outreach"
+      ]
+    },
+    {
+      "id": "mkt_social_caption",
+      "path": "actions/social-caption.json",
+      "name": "Social Media Caption",
+      "description": "Write an engaging social media caption for your post or product",
+      "icon": "Instagram",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "social",
+        "marketing",
+        "writing"
+      ]
+    },
+    {
+      "id": "mkt_thank_you_note",
+      "path": "actions/thank-you-note.json",
+      "name": "Thank You Note",
+      "description": "Write a warm, sincere thank you note for any occasion",
+      "icon": "Heart",
+      "color": "#10B981",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "writing",
+        "personal",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "mkt_translate_chinese",
+      "path": "actions/translate-chinese.json",
+      "name": "Translate to Chinese",
+      "description": "Translate text from any language into natural Simplified Chinese",
+      "icon": "Languages",
+      "color": "#F59E0B",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "translation",
+        "language",
+        "chinese"
+      ]
+    },
+    {
+      "id": "mkt_translate_italian",
+      "path": "actions/translate-italian.json",
+      "name": "Translate to Italian",
+      "description": "Translate text from any language into natural Italian",
+      "icon": "Languages",
+      "color": "#EF4444",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "translation",
+        "language",
+        "italian"
+      ]
+    },
+    {
+      "id": "mkt_translate_russian",
+      "path": "actions/translate-russian.json",
+      "name": "Translate to Russian",
+      "description": "Translate text from any language into natural Russian",
+      "icon": "Languages",
+      "color": "#3B82F6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": [
+        "translation",
+        "language",
+        "russian"
+      ]
     }
   ]
 }

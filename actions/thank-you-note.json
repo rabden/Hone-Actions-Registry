@@ -1,0 +1,12 @@
+{
+  "id": "mkt_thank_you_note",
+  "name": "Thank You Note",
+  "description": "Write a warm, sincere thank you note for any occasion",
+  "icon": "Heart",
+  "color": "#10B981",
+  "promptTemplate": "Write a warm, sincere thank you note based on the following context. Keep the tone genuine and specific, and avoid generic clichés:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the note text. Do NOT include introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "personal", "gratitude"]
+}
