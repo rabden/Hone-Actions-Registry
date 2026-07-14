@@ -134,28 +134,6 @@
       "path": "actions/summarize.json"
     },
     {
-      "id": "mkt_shorten",
-      "name": "Make it concise",
-      "description": "Cut filler and redundancy while keeping the meaning",
-      "icon": "Scissors",
-      "color": "#F43F5E",
-      "version": "1.0.0",
-      "author": "hone-team",
-      "tags": ["shorten", "clarity", "editing"],
-      "path": "actions/shorten.json"
-    },
-    {
-      "id": "mkt_expand",
-      "name": "Expand",
-      "description": "Elaborate and add helpful detail to thin text",
-      "icon": "Text",
-      "color": "#14B8A6",
-      "version": "1.0.0",
-      "author": "hone-team",
-      "tags": ["expand", "writing", "elaborate"],
-      "path": "actions/expand.json"
-    },
-    {
       "id": "mkt_professional_email",
       "name": "Professional email",
       "description": "Turn a rough note into a polished email",
