@@ -165,6 +165,72 @@
       "author": "hone-team",
       "tags": ["writing", "continue", "drafting"],
       "path": "actions/continue.json"
+    },
+    {
+      "id": "mkt_translate_french",
+      "name": "Translate to French",
+      "description": "Translate text from any language into natural French",
+      "icon": "Languages",
+      "color": "#3B82F6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "french"],
+      "path": "actions/translate-french.json"
+    },
+    {
+      "id": "mkt_translate_german",
+      "name": "Translate to German",
+      "description": "Translate text from any language into natural German",
+      "icon": "Languages",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "german"],
+      "path": "actions/translate-german.json"
+    },
+    {
+      "id": "mkt_tldr",
+      "name": "TL;DR",
+      "description": "Distill text into a single key takeaway line",
+      "icon": "Sparkles",
+      "color": "#F59E0B",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["summarization", "tldr", "productivity"],
+      "path": "actions/tldr.json"
+    },
+    {
+      "id": "mkt_bullets_to_prose",
+      "name": "Bullets to prose",
+      "description": "Turn bullet points into a flowing paragraph",
+      "icon": "AlignLeft",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "formatting", "prose"],
+      "path": "actions/bullets-to-prose.json"
+    },
+    {
+      "id": "mkt_steps",
+      "name": "Step-by-step",
+      "description": "Turn text into clear numbered instructions",
+      "icon": "ListOrdered",
+      "color": "#10B981",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["instructions", "how-to", "productivity"],
+      "path": "actions/steps.json"
+    },
+    {
+      "id": "mkt_catchy_title",
+      "name": "Catchy title",
+      "description": "Generate a punchy title or headline",
+      "icon": "Heading",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "title", "marketing"],
+      "path": "actions/catchy-title.json"
     }
   ]
 }
