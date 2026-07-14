@@ -231,6 +231,72 @@
       "author": "hone-team",
       "tags": ["writing", "title", "marketing"],
       "path": "actions/catchy-title.json"
+    },
+    {
+      "id": "mkt_translate_hindi",
+      "name": "Translate to Hindi",
+      "description": "Translate text from any language into natural Hindi",
+      "icon": "Languages",
+      "color": "#FF9933",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "hindi"],
+      "path": "actions/translate-hindi.json"
+    },
+    {
+      "id": "mkt_translate_arabic",
+      "name": "Translate to Arabic",
+      "description": "Translate text from any language into natural Arabic",
+      "icon": "Languages",
+      "color": "#01411C",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "arabic"],
+      "path": "actions/translate-arabic.json"
+    },
+    {
+      "id": "mkt_translate_portuguese",
+      "name": "Translate to Portuguese",
+      "description": "Translate text from any language into natural Portuguese",
+      "icon": "Languages",
+      "color": "#22C55E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "portuguese"],
+      "path": "actions/translate-portuguese.json"
+    },
+    {
+      "id": "mkt_translate_japanese",
+      "name": "Translate to Japanese",
+      "description": "Translate text from any language into natural Japanese",
+      "icon": "Languages",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "japanese"],
+      "path": "actions/translate-japanese.json"
+    },
+    {
+      "id": "mkt_reply_email",
+      "name": "Reply to email",
+      "description": "Draft a polite, on-point email reply",
+      "icon": "Reply",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "communication", "reply"],
+      "path": "actions/reply-email.json"
+    },
+    {
+      "id": "mkt_outline",
+      "name": "Outline",
+      "description": "Turn text into a structured blog or article outline",
+      "icon": "ListTree",
+      "color": "#8B5CF6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "outline", "structure"],
+      "path": "actions/outline.json"
     }
   ]
 }
