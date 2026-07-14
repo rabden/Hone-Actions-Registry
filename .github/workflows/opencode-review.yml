@@ -11,10 +11,10 @@ on:
 jobs:
   review:
     if: |
+      github.event_name == 'pull_request' &&
       github.repository == 'rabden/Hone-Actions-Registry' &&
       github.event.pull_request.head.repo.full_name == github.repository &&
-      github.actor != 'opencode-agent[bot]' &&
-      secrets.OPENCODE_API_KEY != ''
+      github.actor != 'opencode-agent[bot]'
     runs-on: ubuntu-latest
     permissions:
       id-token: write
