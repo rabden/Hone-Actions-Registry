@@ -1,0 +1,12 @@
+{
+  "id": "mkt_apology_note",
+  "name": "Apology Note",
+  "description": "Write a sincere apology note for a mistake or inconvenience",
+  "icon": "Heart",
+  "color": "#F43F5E",
+  "promptTemplate": "Write a sincere apology note based on the following context. Take responsibility without making excuses, acknowledge the impact, and state how you will make it right:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the note text. Do NOT include introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "personal", "apology"]
+}
