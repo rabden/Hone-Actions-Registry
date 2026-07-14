@@ -121,6 +121,72 @@
       "author": "hone-team",
       "tags": ["social", "twitter", "shorten"],
       "path": "actions/tweetify.json"
+    },
+    {
+      "id": "mkt_summarize",
+      "name": "Summarize",
+      "description": "Condense text into a clear one-paragraph summary",
+      "icon": "AlignLeft",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["summarization", "productivity"],
+      "path": "actions/summarize.json"
+    },
+    {
+      "id": "mkt_shorten",
+      "name": "Make it concise",
+      "description": "Cut filler and redundancy while keeping the meaning",
+      "icon": "Scissors",
+      "color": "#F43F5E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["shorten", "clarity", "editing"],
+      "path": "actions/shorten.json"
+    },
+    {
+      "id": "mkt_expand",
+      "name": "Expand",
+      "description": "Elaborate and add helpful detail to thin text",
+      "icon": "Text",
+      "color": "#14B8A6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["expand", "writing", "elaborate"],
+      "path": "actions/expand.json"
+    },
+    {
+      "id": "mkt_professional_email",
+      "name": "Professional email",
+      "description": "Turn a rough note into a polished email",
+      "icon": "Mail",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "communication", "business"],
+      "path": "actions/professional-email.json"
+    },
+    {
+      "id": "mkt_translate_spanish",
+      "name": "Translate to Spanish",
+      "description": "Translate text from any language into natural Spanish",
+      "icon": "Languages",
+      "color": "#22C55E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "spanish"],
+      "path": "actions/translate-spanish.json"
+    },
+    {
+      "id": "mkt_continue",
+      "name": "Continue writing",
+      "description": "Continue the text naturally from where it stops",
+      "icon": "PenTool",
+      "color": "#A855F7",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "continue", "drafting"],
+      "path": "actions/continue.json"
     }
   ]
 }

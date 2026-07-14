@@ -1,0 +1,12 @@
+{
+  "id": "mkt_expand",
+  "name": "Expand",
+  "description": "Elaborate and add helpful detail to thin text",
+  "icon": "Text",
+  "color": "#14B8A6",
+  "promptTemplate": "Expand the following text by adding helpful detail, context, and examples while keeping the original intent and voice. Make it richer and more complete without inventing facts:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the expanded text. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["expand", "writing", "elaborate"]
+}

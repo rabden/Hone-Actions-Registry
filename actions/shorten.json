@@ -1,0 +1,12 @@
+{
+  "id": "mkt_shorten",
+  "name": "Make it concise",
+  "description": "Cut filler and redundancy while keeping the meaning",
+  "icon": "Scissors",
+  "color": "#F43F5E",
+  "promptTemplate": "Rewrite the following text to be as concise as possible. Remove filler words, redundancy, and fluff, but preserve the original meaning, tone, and any key facts or numbers:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the tightened text. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["shorten", "clarity", "editing"]
+}

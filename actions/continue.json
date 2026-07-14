@@ -1,0 +1,12 @@
+{
+  "id": "mkt_continue",
+  "name": "Continue writing",
+  "description": "Continue the text naturally from where it stops",
+  "icon": "PenTool",
+  "color": "#A855F7",
+  "promptTemplate": "Continue writing the following text naturally. Match its tone, style, and perspective, and carry the ideas forward as if the same author kept going. Do not repeat or summarize what is already there:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the continuation text. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "continue", "drafting"]
+}

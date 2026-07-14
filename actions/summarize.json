@@ -1,0 +1,12 @@
+{
+  "id": "mkt_summarize",
+  "name": "Summarize",
+  "description": "Condense text into a clear one-paragraph summary",
+  "icon": "AlignLeft",
+  "color": "#6366F1",
+  "promptTemplate": "Summarize the following text into a single clear paragraph that captures the main point and key details. Keep it concise and faithful to the original meaning:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the summary paragraph. Do NOT include any introductory notes, headings, or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["summarization", "productivity"]
+}
