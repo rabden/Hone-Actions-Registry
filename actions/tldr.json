@@ -1,0 +1,12 @@
+{
+  "id": "mkt_tldr",
+  "name": "TL;DR",
+  "description": "Distill text into a single key takeaway line",
+  "icon": "Sparkles",
+  "color": "#F59E0B",
+  "promptTemplate": "Distill the following text into a single, crisp TL;DR line that captures the core point. Be specific and avoid generic phrasing:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the one-line takeaway. Do NOT include any introductory notes, headings, or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["summarization", "tldr", "productivity"]
+}

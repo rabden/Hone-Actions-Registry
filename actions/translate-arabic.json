@@ -1,0 +1,12 @@
+{
+  "id": "mkt_translate_arabic",
+  "name": "Translate to Arabic",
+  "description": "Translate text from any language into natural Arabic",
+  "icon": "Languages",
+  "color": "#01411C",
+  "promptTemplate": "Translate the following text into natural, fluent Arabic. Preserve the meaning, tone, and formatting of the original. If the text is already in Arabic, return it unchanged:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the Arabic translation. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["translation", "language", "arabic"]
+}

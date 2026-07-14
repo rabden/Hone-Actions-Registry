@@ -1,0 +1,12 @@
+{
+  "id": "mkt_outline",
+  "name": "Outline",
+  "description": "Turn text into a structured blog or article outline",
+  "icon": "ListTree",
+  "color": "#8B5CF6",
+  "promptTemplate": "Turn the following text into a clear blog or article outline. Use a hierarchical structure with a title, section headings (##), and 2-3 bullet sub-points under each. Keep it faithful to the source material:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the outline. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "outline", "structure"]
+}

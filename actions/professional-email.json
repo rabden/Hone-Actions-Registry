@@ -1,0 +1,12 @@
+{
+  "id": "mkt_professional_email",
+  "name": "Professional email",
+  "description": "Turn a rough note into a polished email",
+  "icon": "Mail",
+  "color": "#0EA5E9",
+  "promptTemplate": "Turn the following rough note into a polished, professional email. Add a clear subject line prefixed with \"Subject:\", a suitable greeting and sign-off, and well-structured body text. Keep the meaning and any requested actions intact:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the finished email. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["email", "communication", "business"]
+}

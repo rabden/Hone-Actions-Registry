@@ -1,0 +1,12 @@
+{
+  "id": "mkt_steps",
+  "name": "Step-by-step",
+  "description": "Turn text into clear numbered instructions",
+  "icon": "ListOrdered",
+  "color": "#10B981",
+  "promptTemplate": "Rewrite the following text as a clear set of numbered, step-by-step instructions. Each step should be a single actionable sentence. Preserve the original goal and order:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the numbered steps. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["instructions", "how-to", "productivity"]
+}

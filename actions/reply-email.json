@@ -1,0 +1,12 @@
+{
+  "id": "mkt_reply_email",
+  "name": "Reply to email",
+  "description": "Draft a polite, on-point email reply",
+  "icon": "Reply",
+  "color": "#0EA5E9",
+  "promptTemplate": "Draft a clear, polite email reply to the message below. Address the points raised, match the tone of the thread, and end with an appropriate sign-off. If a desired outcome or instruction is included, follow it:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the reply email. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["email", "communication", "reply"]
+}

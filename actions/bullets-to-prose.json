@@ -1,0 +1,12 @@
+{
+  "id": "mkt_bullets_to_prose",
+  "name": "Bullets to prose",
+  "description": "Turn bullet points into a flowing paragraph",
+  "icon": "AlignLeft",
+  "color": "#6366F1",
+  "promptTemplate": "Rewrite the following bullet points into a single cohesive, well-structured paragraph of flowing prose. Connect the ideas naturally and keep all the information:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the prose paragraph. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "formatting", "prose"]
+}

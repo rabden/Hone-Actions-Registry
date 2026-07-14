@@ -121,6 +121,182 @@
       "author": "hone-team",
       "tags": ["social", "twitter", "shorten"],
       "path": "actions/tweetify.json"
+    },
+    {
+      "id": "mkt_summarize",
+      "name": "Summarize",
+      "description": "Condense text into a clear one-paragraph summary",
+      "icon": "AlignLeft",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["summarization", "productivity"],
+      "path": "actions/summarize.json"
+    },
+    {
+      "id": "mkt_professional_email",
+      "name": "Professional email",
+      "description": "Turn a rough note into a polished email",
+      "icon": "Mail",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "communication", "business"],
+      "path": "actions/professional-email.json"
+    },
+    {
+      "id": "mkt_translate_spanish",
+      "name": "Translate to Spanish",
+      "description": "Translate text from any language into natural Spanish",
+      "icon": "Languages",
+      "color": "#22C55E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "spanish"],
+      "path": "actions/translate-spanish.json"
+    },
+    {
+      "id": "mkt_continue",
+      "name": "Continue writing",
+      "description": "Continue the text naturally from where it stops",
+      "icon": "PenTool",
+      "color": "#A855F7",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "continue", "drafting"],
+      "path": "actions/continue.json"
+    },
+    {
+      "id": "mkt_translate_french",
+      "name": "Translate to French",
+      "description": "Translate text from any language into natural French",
+      "icon": "Languages",
+      "color": "#3B82F6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "french"],
+      "path": "actions/translate-french.json"
+    },
+    {
+      "id": "mkt_translate_german",
+      "name": "Translate to German",
+      "description": "Translate text from any language into natural German",
+      "icon": "Languages",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "german"],
+      "path": "actions/translate-german.json"
+    },
+    {
+      "id": "mkt_tldr",
+      "name": "TL;DR",
+      "description": "Distill text into a single key takeaway line",
+      "icon": "Sparkles",
+      "color": "#F59E0B",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["summarization", "tldr", "productivity"],
+      "path": "actions/tldr.json"
+    },
+    {
+      "id": "mkt_bullets_to_prose",
+      "name": "Bullets to prose",
+      "description": "Turn bullet points into a flowing paragraph",
+      "icon": "AlignLeft",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "formatting", "prose"],
+      "path": "actions/bullets-to-prose.json"
+    },
+    {
+      "id": "mkt_steps",
+      "name": "Step-by-step",
+      "description": "Turn text into clear numbered instructions",
+      "icon": "ListOrdered",
+      "color": "#10B981",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["instructions", "how-to", "productivity"],
+      "path": "actions/steps.json"
+    },
+    {
+      "id": "mkt_catchy_title",
+      "name": "Catchy title",
+      "description": "Generate a punchy title or headline",
+      "icon": "Heading",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "title", "marketing"],
+      "path": "actions/catchy-title.json"
+    },
+    {
+      "id": "mkt_translate_hindi",
+      "name": "Translate to Hindi",
+      "description": "Translate text from any language into natural Hindi",
+      "icon": "Languages",
+      "color": "#FF9933",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "hindi"],
+      "path": "actions/translate-hindi.json"
+    },
+    {
+      "id": "mkt_translate_arabic",
+      "name": "Translate to Arabic",
+      "description": "Translate text from any language into natural Arabic",
+      "icon": "Languages",
+      "color": "#01411C",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "arabic"],
+      "path": "actions/translate-arabic.json"
+    },
+    {
+      "id": "mkt_translate_portuguese",
+      "name": "Translate to Portuguese",
+      "description": "Translate text from any language into natural Portuguese",
+      "icon": "Languages",
+      "color": "#22C55E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "portuguese"],
+      "path": "actions/translate-portuguese.json"
+    },
+    {
+      "id": "mkt_translate_japanese",
+      "name": "Translate to Japanese",
+      "description": "Translate text from any language into natural Japanese",
+      "icon": "Languages",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "japanese"],
+      "path": "actions/translate-japanese.json"
+    },
+    {
+      "id": "mkt_reply_email",
+      "name": "Reply to email",
+      "description": "Draft a polite, on-point email reply",
+      "icon": "Reply",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "communication", "reply"],
+      "path": "actions/reply-email.json"
+    },
+    {
+      "id": "mkt_outline",
+      "name": "Outline",
+      "description": "Turn text into a structured blog or article outline",
+      "icon": "ListTree",
+      "color": "#8B5CF6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "outline", "structure"],
+      "path": "actions/outline.json"
     }
   ]
 }

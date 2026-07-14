@@ -1,0 +1,12 @@
+{
+  "id": "mkt_catchy_title",
+  "name": "Catchy title",
+  "description": "Generate a punchy title or headline",
+  "icon": "Heading",
+  "color": "#EC4899",
+  "promptTemplate": "Generate one catchy, attention-grabbing title or headline for the following text. Make it concise, specific, and compelling without clickbait. Return only the title:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the title. Do NOT include quotation marks, introductory notes, or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["writing", "title", "marketing"]
+}

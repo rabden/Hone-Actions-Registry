@@ -1,0 +1,12 @@
+{
+  "id": "mkt_translate_french",
+  "name": "Translate to French",
+  "description": "Translate text from any language into natural French",
+  "icon": "Languages",
+  "color": "#3B82F6",
+  "promptTemplate": "Translate the following text into natural, fluent French. Preserve the meaning, tone, and formatting of the original. If the text is already in French, return it unchanged:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the French translation. Do NOT include any introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["translation", "language", "french"]
+}
