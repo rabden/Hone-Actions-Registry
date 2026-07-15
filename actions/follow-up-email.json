@@ -1,0 +1,12 @@
+{
+  "id": "mkt_follow_up_email",
+  "name": "Follow-up Email",
+  "description": "Write a polite follow-up email after no response",
+  "icon": "Mail",
+  "color": "#0EA5E9",
+  "promptTemplate": "Write a polite, concise follow-up email based on the following context. Reference the previous message briefly, restate the single ask, and keep it under 100 words:\n\n\"{{input}}\"\n\nIMPORTANT: Return ONLY the email text, with a subject line on the first line. Do NOT include introductory notes or explanations.",
+  "category": "marketplace",
+  "version": "1.0.0",
+  "author": "hone-team",
+  "tags": ["email", "follow-up", "writing"]
+}

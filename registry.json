@@ -297,6 +297,94 @@
       "author": "hone-team",
       "tags": ["writing", "outline", "structure"],
       "path": "actions/outline.json"
+    },
+    {
+      "id": "mkt_outreach_email",
+      "name": "Outreach Email",
+      "description": "Write a concise, persuasive cold outreach email",
+      "icon": "Mail",
+      "color": "#6366F1",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "sales", "outreach"],
+      "path": "actions/outreach-email.json"
+    },
+    {
+      "id": "mkt_social_caption",
+      "name": "Social Media Caption",
+      "description": "Write an engaging social media caption for your post or product",
+      "icon": "Instagram",
+      "color": "#EC4899",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["social", "marketing", "writing"],
+      "path": "actions/social-caption.json"
+    },
+    {
+      "id": "mkt_thank_you_note",
+      "name": "Thank You Note",
+      "description": "Write a warm, sincere thank you note for any occasion",
+      "icon": "Heart",
+      "color": "#10B981",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "personal", "gratitude"],
+      "path": "actions/thank-you-note.json"
+    },
+    {
+      "id": "mkt_translate_chinese",
+      "name": "Translate to Chinese",
+      "description": "Translate text from any language into natural Simplified Chinese",
+      "icon": "Languages",
+      "color": "#F59E0B",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "chinese"],
+      "path": "actions/translate-chinese.json"
+    },
+    {
+      "id": "mkt_translate_italian",
+      "name": "Translate to Italian",
+      "description": "Translate text from any language into natural Italian",
+      "icon": "Languages",
+      "color": "#EF4444",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "italian"],
+      "path": "actions/translate-italian.json"
+    },
+    {
+      "id": "mkt_translate_russian",
+      "name": "Translate to Russian",
+      "description": "Translate text from any language into natural Russian",
+      "icon": "Languages",
+      "color": "#3B82F6",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["translation", "language", "russian"],
+      "path": "actions/translate-russian.json"
+    },
+    {
+      "id": "mkt_apology_note",
+      "name": "Apology Note",
+      "description": "Write a sincere apology note for a mistake or inconvenience",
+      "icon": "Heart",
+      "color": "#F43F5E",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["writing", "personal", "apology"],
+      "path": "actions/apology-note.json"
+    },
+    {
+      "id": "mkt_follow_up_email",
+      "name": "Follow-up Email",
+      "description": "Write a polite follow-up email after no response",
+      "icon": "Mail",
+      "color": "#0EA5E9",
+      "version": "1.0.0",
+      "author": "hone-team",
+      "tags": ["email", "follow-up", "writing"],
+      "path": "actions/follow-up-email.json"
     }
   ]
 }
